@@ -1,31 +1,46 @@
-# Hi there, I'm Vanya 👋
+# Hi there, I'm Vanya 👋 — QA Engineer (Manual + API)
 
-🎯 Focusing
-
-> I just started learning programming.
+> Junior QA focused on structured manual testing and API validation: full STLC — from test design to bug reports, retest and regression.
 
 ![Profile views](https://komarev.com/ghpvc/?username=rohachevsk&color=0e75b6&style=flat)
 
 ## About me
 
-- 👨‍💻 GitHub: [@rohachevsk](https://github.com/rohachevsk)
-- 📚 Learning programming, building small projects
+- 🧪 QA Engineer (Manual + API): checklists, test cases, bug reports
+- 🔍 Root-cause mindset: DevTools, API responses, SQL verification
+- 👨‍💻 Dev background: TypeScript / CSS — helps read code when investigating bugs
 - 🎯 Currently: Focusing
 
-## 🛠 Tech Stack
+## 🛠 QA Skills
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/-Chrome_DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
-## 📌 Projects
+- Test design: checklists, test cases, boundary values, equivalence partitioning, negative testing
+- API testing: Postman collections + environments, status/contract validation
+- Database testing: SQL queries, seed/state verification (PostgreSQL)
+- UI testing: Chrome + DevTools (Network tab, API response mapping)
+- Defect lifecycle: clear bug reports with severity/priority, traceability TC → bug → fix → retest
+- Retest & regression: dedicated cycles with reports
 
-| Project | Description | Stack |
+## ⭐ Featured QA Projects
+
+| Project | What I tested | Result |
 |---|---|---|
-| [NotesApp](https://github.com/rohachevsk/NotesApp) | NotesApp | TypeScript |
-| [movieSearch](https://github.com/rohachevsk/movieSearch) | movieSearch | CSS |
-| [Electricforklifts_Lending](https://github.com/rohachevsk/Electricforklifts_Lending) | Electricforklifts_Lending | TypeScript |
+| [room-booking-qa-portfolio](https://github.com/rohachevsk/room-booking-qa-portfolio) — Manual QA, full STLC (Test Plan, 41 test cases, Postman collection, SQL scripts, 8 bug reports) | Auth, bookings, overlap prevention, API, DB, security | **41 TC: 33 pass / 8 fail → 8 bugs fixed → retest 8/8 PASS → regression PASS** |
+| [weather-forecast-qa](https://github.com/rohachevsk/weather-forecast-qa) — Manual QA of a production Weather app (Scope, Checklist, Test Cases, Retest + Regression reports) | Search, forecasts, localization (RU/EN/UA), data accuracy via Open-Meteo API | **4 bugs found → retest 4/4 PASS → regression 10/10 PASS** |
+
+🔍 Investigation highlight: in `weather-forecast-qa` BUG-004 I caught wrong hourly data via DevTools Network tab — the app rendered `00:00` data instead of the current hour; in `room-booking-qa-portfolio` BUG-001 I traced a forged-JWT acceptance down to an insecure fallback secret.
+
+## 💻 Dev background
+
+Small projects from learning programming — useful for white-box bug investigation:
+
+- [NotesApp](https://github.com/rohachevsk/NotesApp) — TypeScript
+- [movieSearch](https://github.com/rohachevsk/movieSearch) — CSS
 
 ## 📊 Stats
 
