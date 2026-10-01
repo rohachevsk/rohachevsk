@@ -8,7 +8,7 @@
 
 - 🧪 QA Engineer (Manual + API): checklists, test cases, bug reports
 - 🔍 Root-cause mindset: DevTools, API responses, SQL verification
-- 👨‍💻 Dev background: JavaScript / React / Node.js / NestJS — helps read code when investigating bugs
+- 👨‍💻 Dev background: JavaScript / React / Next.js / Node.js — helps read code when investigating bugs
 - 🎯 Currently: Focusing
 
 ## 🛠 QA Skills
@@ -21,7 +21,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
 - Test design: checklists, test cases, boundary values, equivalence partitioning, negative testing
 - API testing: Postman collections + environments, status/contract validation
@@ -47,8 +46,8 @@ Small projects from learning programming — useful for white-box bug investigat
 
 | Project | Stack |
 |---|---|
-| [todo-listReact](https://github.com/rohachevsk/todo-listReact) | React / JavaScript |
-| [my-appNextJs](https://github.com/rohachevsk/my-appNextJs) | Next.js / React / TypeScript |
+| [jysk-team-project](https://github.com/iTaras06/jysk-team-project) | Next.js / React / TypeScript (team project) |
+| [Weather-Forecast](https://github.com/Artemelion/Weather-Forecast) | JavaScript / CSS (app under test in `weather-forecast-qa`) |
 | [NotesApp](https://github.com/rohachevsk/NotesApp) | TypeScript |
 | [movieSearch](https://github.com/rohachevsk/movieSearch) | CSS / JavaScript |
 
@@ -56,7 +55,6 @@ Small projects from learning programming — useful for white-box bug investigat
 
 | Project | Stack |
 |---|---|
-| [project-nest](https://github.com/rohachevsk/project-nest) | NestJS / Node.js / TypeScript |
 | [nodejsUni](https://github.com/rohachevsk/nodejsUni) | Node.js / TypeScript (`weapon-arena` npm package) |
 
 ## 📊 Stats
