@@ -8,7 +8,7 @@
 
 - 🧪 QA Engineer (Manual + API): checklists, test cases, bug reports
 - 🔍 Root-cause mindset: DevTools, API responses, SQL verification
-- 👨‍💻 Dev background: TypeScript / CSS — helps read code when investigating bugs
+- 👨‍💻 Dev background: JavaScript / React / Node.js / NestJS — helps read code when investigating bugs
 - 🎯 Currently: Focusing
 
 ## 🛠 QA Skills
@@ -18,6 +18,10 @@
 ![Chrome DevTools](https://img.shields.io/badge/-Chrome_DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
 - Test design: checklists, test cases, boundary values, equivalence partitioning, negative testing
 - API testing: Postman collections + environments, status/contract validation
@@ -39,8 +43,21 @@
 
 Small projects from learning programming — useful for white-box bug investigation:
 
-- [NotesApp](https://github.com/rohachevsk/NotesApp) — TypeScript
-- [movieSearch](https://github.com/rohachevsk/movieSearch) — CSS
+**Frontend**
+
+| Project | Stack |
+|---|---|
+| [todo-listReact](https://github.com/rohachevsk/todo-listReact) | React / JavaScript |
+| [my-appNextJs](https://github.com/rohachevsk/my-appNextJs) | Next.js / React / TypeScript |
+| [NotesApp](https://github.com/rohachevsk/NotesApp) | TypeScript |
+| [movieSearch](https://github.com/rohachevsk/movieSearch) | CSS / JavaScript |
+
+**Backend**
+
+| Project | Stack |
+|---|---|
+| [project-nest](https://github.com/rohachevsk/project-nest) | NestJS / Node.js / TypeScript |
+| [nodejsUni](https://github.com/rohachevsk/nodejsUni) | Node.js / TypeScript (`weapon-arena` npm package) |
 
 ## 📊 Stats
 
